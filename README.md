@@ -7,4 +7,4 @@ provided by said chapter.
 
 While there are directories of all chapters in the book, the only directories
 with code will be the ones I have progressed through. I am currently working on
-Chapter 6.
+Chapter 8.
